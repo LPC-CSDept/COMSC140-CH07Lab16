@@ -1,11 +1,11 @@
 
-[Link to Chap 7 Lab15](https://docs.google.com/presentation/d/1JAYVQiZr57OZfIMUQAkPNPlCKidqvytLhLDB5aqag_8/edit#slide=id.g114ede88c96_0_543)
+[Link to Chap 7 Lab16](https://docs.google.com/presentation/d/1JAYVQiZr57OZfIMUQAkPNPlCKidqvytLhLDB5aqag_8/edit#slide=id.g117599b468e_0_159)
 
 
-## Run this file 'Exericse15.ipynb' on your side.
+## Run this file 'Exericse16.ipynb' on your side.
 
-### Once you run this example file 'Exercise15.ipynb', make sure there are 'png' files from python code, 
-#### e15-1.png, e15-2.png, e15-3.png
+### Once you run this example file 'Exercise16.ipynb', make sure there are 'png' files from python code, 
+#### e16-1.png, e16-2.png, e16-3.png
 ### Commit/push all 'png' files to Github classroom Repository
 ##### If you upload all 'png' files, you will pass this test
 
@@ -14,6 +14,6 @@
 ###
 
 
-![Lab15](https://nimbus-screenshots.s3.amazonaws.com/s/514c6ee8051a07bcf7f5b79d6e4aa0c1.png)
+![Lab15](https://nimbus-screenshots.s3.amazonaws.com/s/737d74ce7f14cc4db6a509eb60d959e1.png)
 
 
